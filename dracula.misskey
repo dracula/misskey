@@ -1,0 +1,35 @@
+{
+	id: 'Mayhem-Misskey-Dracula',
+
+	name: 'Dracula',
+	author: '@mayhem@myhm.social',
+	desc: 'Theme based on Dracula color scheme',
+
+	base: 'dark',
+
+props: {
+	accent: '#44475a',
+	bg: '#282a36',
+	fg: '#f8f8f2',
+	fgHighlighted: '@accent',
+	panel: '#44475a',
+	navBg: '@bg',
+	navFg: '@fg',
+	navHoverFg: '@accent',
+	navActive: '@accent',
+	navIndicator: '#6272a4',
+	indicator: '#6272a4',
+	header: '#bd93f9',
+	link: '#ff79c6',
+	mention: '#50fa7b',
+	hashtag: '#ffb86c',
+	renote: '#44475a',
+	cwFg: '@fg',
+	pageBg: '@bg',
+	badge: '#f1fa8c',
+	divider: 'rgba(46, 52, 64, 0.5)',
+	driveFolderBg: '@panel',
+	infoWarnBg: '#282a36',
+	infoWarnFg: '#ff5555',
+	},
+}

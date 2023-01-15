@@ -1,17 +1,15 @@
-### [Foobar](https://foobar.com)
-
-#### Install using Git
-
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-    git clone https://github.com/dracula/foobar.git
+### [Misskey](https://misskey-hub.net)
 
 #### Install manually
 
-Download using the [GitHub .zip download](https://github.com/dracula/foobar/archive/master.zip) option and unzip them.
+    Download dracula.misskey
+
+    Follow Steps Below
 
 #### Activating theme
 
-1. Do this
-2. Then that
-3. Boom! It's working
+1. Go To Settings > Themes > Install a Theme
+2. Paste in Contents of dracula.misskey
+3. Click Install!
+4. Set Theme to Dracula on Themes main page.
+5. Profit?
