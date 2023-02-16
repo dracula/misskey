@@ -13,8 +13,8 @@ All instructions can be found at [draculatheme.com/misskey](https://draculatheme
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/misskey/graphs/contributors).
 
 | [![Mayhem](https://github.com/MayhemBill.png?size=100)](https://github.com/MayhemBill) |
-| ---------------------------------------------------------------------------------------- |
-| [Mayhem](https://github.com/mayhem)                                               |
+| -------------------------------------------------------------------------------------- |
+| [Mayhem](https://github.com/mayhem)                                                    |
 
 ## Community
 

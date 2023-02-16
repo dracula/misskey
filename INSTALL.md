@@ -1,15 +1,19 @@
 ### [Misskey](https://misskey-hub.net)
 
-#### Install manually
+#### Install
 
-    Download dracula.misskey
+🎯 First, you need to download the `dracula.misskey` file. You can do this [from GitHub](https://github.com/dracula/misskey/blob/main/dracula.misskey) or by manually cloning the repository:
 
-    Follow Steps Below
+```bash
+
+git clone https://github.com/dracula/misskey.git
+
+```
 
 #### Activating theme
 
-1. Go To Settings > Themes > Install a Theme
-2. Paste in Contents of dracula.misskey
-3. Click Install!
-4. Set Theme to Dracula on Themes main page.
-5. Profit?
+1. Go to: **Settings** > **Themes** > **Install a Theme**;
+2. Paste the contents of `dracula.misskey`;
+3. And click **Install**!
+4. Set the theme to **Dracula** on **Themes** main page.
+5. Ready! 🦇
